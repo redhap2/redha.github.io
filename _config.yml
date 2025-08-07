@@ -22,7 +22,7 @@ repository               : "redhap2/redha.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "chaba.png"
+  avatar           : "profile.png"
   name             : "Redha CHABA"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in Economics"
