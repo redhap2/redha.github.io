@@ -26,7 +26,7 @@ author:
   name             : "Redha CHABA"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in Economics"
-  location         : ""
+  location         : #
   employer         : "Paris Panthéon Assas University"
   uri              : # URL
   email            : "redha.chaba@assas-universite.fr" 
